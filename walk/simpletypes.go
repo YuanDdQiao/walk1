@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/walk
+package walk
 
 type Alignment1D uint
 

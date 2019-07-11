@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/walk
+package walk
 
 type IntRangeEventHandler func(from, to int)
 

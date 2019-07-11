@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/walk
+package walk
 
 import (
 	win "github.com/YuanDdQiao/walk1/win"

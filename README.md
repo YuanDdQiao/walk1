@@ -13,7 +13,3 @@
     -->
     win "github.com/YuanDdQiao/walk1/win"
 
-    package walk
-    -->
-    package walk1/walk
-
