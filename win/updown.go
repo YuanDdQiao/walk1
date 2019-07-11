@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/win
+package win
 
 const UDN_FIRST = ^uint32(720)
 

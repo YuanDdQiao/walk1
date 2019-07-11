@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/win
+package win
 
 type VAR_BSTR struct {
 	vt        VARTYPE

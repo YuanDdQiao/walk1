@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/win
+package win
 
 const TCM_FIRST = 0x1300
 const TCN_FIRST = -550

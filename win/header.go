@@ -4,7 +4,7 @@
 
 // +build windows
 
-package walk1/win
+package win
 
 const (
 	HDF_SORTDOWN = 0x200
